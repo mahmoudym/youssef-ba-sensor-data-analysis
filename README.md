@@ -1,5 +1,5 @@
-# Espresso Machine Classifier
-This project is trying to classify the espresso machine's consumption into a single or double depending only on power consumption.
+# Smart Sensor Data Analysis
+This project predicts appliance's currently running service using power consumption only, with a minimal example of an Esspresso Machine
 
 ## Getting started
 This is to show how to install and run the project on your local machine.
