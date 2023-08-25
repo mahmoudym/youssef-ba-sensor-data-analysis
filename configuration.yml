@@ -1,6 +1,0 @@
-influxdb:
-    host: '134.60.47.223'
-    port: 8086
-    username: 'omi'
-    password: 'omiadmin2018'
-    database: 'openhab'
