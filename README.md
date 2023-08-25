@@ -1,5 +1,5 @@
-# Espresso Machine Classifier
-This project is trying to classify the espresso machine's consumption into a single or double depending only on power consumption.
+# Smart Sensor Data Analysis
+This project predicts appliance's currently running service using power consumption only, with a minimal example of an Esspresso Machine
 
 ## Getting started
 This is to show how to install and run the project on your local machine.
@@ -12,9 +12,7 @@ https://www.python.org/downloads/
 and pip from here
 https://pip.pypa.io/en/stable/installing/
 right now you need to create an anaonda environment in which you will install the dependencies on which can be done using this command
-```
 
-```
 Then you need to install keras, the machine learning library in python
 ```
 conda install -c conda-forge keras 
@@ -42,11 +40,7 @@ To run the code you have to activate the environment you have created earlier. U
 ```
 activate Nameofyourenvironment
 ```
-then you have to go to the directory of the project using cd command such as
-```
-cd Foldername/foldername/...
-```
-and then run jupyter to be able to run the code with this command
+then you go to the directory of the project run jupyter
 ```
 jupyter notebook
 ```
